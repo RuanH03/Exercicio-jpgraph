@@ -15,7 +15,7 @@ Reinicie o Apache (Stop / Start) para que a alteração seja efetivada.
 
 
 
-1. fazer o download do arquivo    "jpgraph-4.4.1.tar.gz" (ou da versão mais recente) da biblioteca jpgraph (versão comunidade que é gratuita) em https://jpgraph.net/download/
+1. fazer o download do arquivo    "jpgraph-4.4.1.tar.gz" (ou da versão mais recente) da biblioteca jpgraph (versão comunidade que é gratuita) em 📌https://jpgraph.net/download/
 
    
 
