@@ -77,4 +77,4 @@ Nos programas, para geração dos gráficos, os dados devem estar armazenados em
 
 Cada arquivo gera uma imagem, então não é possível inserir tags HTML no arquivo que gera o gráficos.
 
-Assim, para incluir um gráfico em uma outra página HTML/PHP é necessário usar a tag <iframe> como foi usado no arquivo listar.php. Ou usar a tag <img> no atributo src  informar o programa que gera o gráfico escolhido.
+Para incluir um gráfico em uma outra página HTML/PHP é necessário usar a tag <iframe>. Ou usar a tag <img> no atributo src  informar o programa que gera o gráfico escolhido.
